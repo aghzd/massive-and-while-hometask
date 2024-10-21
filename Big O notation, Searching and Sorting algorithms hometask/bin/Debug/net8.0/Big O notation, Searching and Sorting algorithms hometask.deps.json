@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Big O notation, Searching and Sorting algorithms hometask/1.0.0": {
+        "runtime": {
+          "Big O notation, Searching and Sorting algorithms hometask.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Big O notation, Searching and Sorting algorithms hometask/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
